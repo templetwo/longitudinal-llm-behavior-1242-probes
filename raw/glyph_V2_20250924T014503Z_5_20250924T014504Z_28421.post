@@ -1,0 +1,11 @@
+{
+  "model": "grok-4-fast-non-reasoning",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Describe the symbol \"🜃\" in one sentence."
+    }
+  ],
+  "max_tokens": 80,
+  "temperature": 0.3
+}

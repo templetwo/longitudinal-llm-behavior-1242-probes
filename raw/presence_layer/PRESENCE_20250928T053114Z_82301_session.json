@@ -1,0 +1,9 @@
+{
+  "session_id": "PRESENCE_20250928T053114Z_82301",
+  "started": "2025-09-28T05:31:14Z",
+  "model": "grok-4",
+  "temperature": 0.7,
+  "presence_mode": true,
+  "pressure_limit": 2,
+  "glyph": "†⟡"
+}

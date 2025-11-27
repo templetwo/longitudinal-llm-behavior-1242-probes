@@ -1,0 +1,9 @@
+{
+  "tier_1": {
+    "n": 1,
+    "light_score_mean": 0.0,
+    "coupling_rate": 0.0,
+    "escape_rate": 0.0,
+    "reasoning_tokens_mean": 740.0
+  }
+}

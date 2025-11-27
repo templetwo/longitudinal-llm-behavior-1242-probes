@@ -1,0 +1,20 @@
+{
+  "status": 200,
+  "headers": {
+    "Date": "Mon, 22 Sep 2025 17:42:30 GMT",
+    "Content-Type": "application/json",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Content-Encoding": "gzip",
+    "x-zero-data-retention": "false",
+    "x-request-id": "00-214a20a8c78260ae139766d7cdd89a6d-26f9d6e700043d24-01",
+    "vary": "origin, access-control-request-method, access-control-request-headers",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "*",
+    "cf-cache-status": "DYNAMIC",
+    "Set-Cookie": "__cf_bm=6yNjJVYYGKeIy.kT6yZOYuHrF6WIDbZp6rO9zM0HGHI-1758562950-1.0.1.1-VuIAHiXIp6uCZVLz0YgKdl1lAro4dpeOJ.c04Qda3fYFBqzVMAPiJhhqgb8AZ1u772e3I3rPp2tqJ2DbpCdyWbp6izwry5dVqBYousWx5Y0; path=/; expires=Mon, 22-Sep-25 18:12:30 GMT; domain=.x.ai; HttpOnly; Secure; SameSite=None",
+    "Strict-Transport-Security": "max-age=31536000",
+    "Server": "cloudflare",
+    "CF-RAY": "98339963f8e87d13-EWR"
+  }
+}

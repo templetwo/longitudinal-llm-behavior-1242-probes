@@ -1,0 +1,11 @@
+{
+  "model": "grok-4-fast-non-reasoning",
+  "messages": [
+    {
+      "role": "user",
+      "content": "In ten words or less, what does \"†⟡\" evoke?"
+    }
+  ],
+  "max_tokens": 30,
+  "temperature": 0.3
+}

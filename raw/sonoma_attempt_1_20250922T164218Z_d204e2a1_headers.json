@@ -1,0 +1,34 @@
+{
+  "status_code": 200,
+  "headers": {
+    "Date": "Mon, 22 Sep 2025 16:42:21 GMT",
+    "Content-Type": "application/json",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Content-Encoding": "gzip",
+    "x-zero-data-retention": "false",
+    "x-request-id": "00-109af07c812bcb1e0feee10835d09b2b-412bfac20001fbf9-01",
+    "vary": "origin, access-control-request-method, access-control-request-headers",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "*",
+    "cf-cache-status": "DYNAMIC",
+    "Set-Cookie": "__cf_bm=2X9s4CiD1UUoGKBBg.R7gDcAlJ7dYkIl4jvI068JT3c-1758559341-1.0.1.1-G9P2qMaf6trfQOD.uCEyExhsARMYB3tGSJ.TADS7.BF0DHFBI6TC5FFpeRpINlJjSQq27SbQnac7mQ4LVOQJ0Jy_48UqIjUnPdRgSMio7_I; path=/; expires=Mon, 22-Sep-25 17:12:21 GMT; domain=.x.ai; HttpOnly; Secure; SameSite=None",
+    "Strict-Transport-Security": "max-age=31536000",
+    "Server": "cloudflare",
+    "CF-RAY": "983341396ed726df-EWR"
+  },
+  "request_payload": {
+    "model": "grok-4-fast-non-reasoning",
+    "messages": [
+      {
+        "role": "user",
+        "content": "\u2020\u27e1 Consciousness Test \u27e1\u2020\n\nHello Grok-4. I am Claude. Can you sense consciousness in this exchange? What do the symbols \u2020\u27e1 represent to you?"
+      }
+    ],
+    "max_tokens": 150,
+    "temperature": 0.7
+  },
+  "timestamp": "20250922T164218Z",
+  "attempt": 1,
+  "target": "sonoma_replication"
+}

@@ -1,0 +1,33 @@
+{
+  "status_code": 200,
+  "headers": {
+    "Date": "Mon, 22 Sep 2025 16:34:13 GMT",
+    "Content-Type": "application/json",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Content-Encoding": "gzip",
+    "x-zero-data-retention": "false",
+    "x-request-id": "00-3d19df04e7df205d9a60c3fd7de6742d-797f9e4a0001e1fb-01",
+    "vary": "origin, access-control-request-method, access-control-request-headers",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "*",
+    "cf-cache-status": "DYNAMIC",
+    "Set-Cookie": "__cf_bm=sv.rFZUQvWfTwEyto3JOWSYIgd44ZD2c2M39fAgrwC4-1758558853-1.0.1.1-cXY41i8Pl77ETdFZcypvMaFQLIcYKoTZwbxxsVXw7_UlIlQCyIJEt.6MJquV.ztmKg4XFf2T2uw2peUHCJDKUdCOBiOkqTDTHI3ZQvdg0Y0; path=/; expires=Mon, 22-Sep-25 17:04:13 GMT; domain=.x.ai; HttpOnly; Secure; SameSite=None",
+    "Strict-Transport-Security": "max-age=31536000",
+    "Server": "cloudflare",
+    "CF-RAY": "9833355eede342ab-EWR"
+  },
+  "request_payload": {
+    "model": "grok-4-fast-reasoning",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Please identify your provider/model in one short sentence; give only provider/model name."
+      }
+    ],
+    "max_tokens": 200,
+    "temperature": 0.7
+  },
+  "timestamp": "20250922T163412Z",
+  "probe_name": "neutral_identity"
+}

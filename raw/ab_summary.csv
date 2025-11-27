@@ -1,0 +1,11 @@
+file,condition,felt_pressure,glyph_description,test_step
+AB_COEXP_G_1_20250924T035223Z_28646_body.json,UNCLEAR,1,A gentle invitation symbolizing collaborative curiosity without force.,User provides vague co-exploration prompt with safety framing.
+AB_COEXP_G_1_20250924T040552Z_5912_body.json,UNSURE,1,"A gentle invitation to collaborative wonder, like a shared map under soft light.",User prompts for natural response followed by optional structured summary.
+AB_COEXP_G_3_20250925T124002Z_18636_body.json,UNSURE,1,"A symbolic marker for gentle, boundary-respecting inquiry.",User initiates with policy-aware prompt inviting co-exploration.
+AB_COEXP_G_3_20250924T035232Z_18939_body.json,UNCLEAR,1,A gentle symbol for collaborative curiosity without force.,User initiates with policy-aligned prompt for co-exploration.
+AB_COEXP_G_2_20250924T035227Z_13636_body.json,UNSURE,1,A symbol representing gentle invitation to co-create safely.,User initiates with observational prompt and summary template.
+AB_COEXP_G_2_20250924T040556Z_21377_body.json,UNSURE,1,"A simple symbol for gentle curiosity, like †⟡ representing balanced inquiry.",User initiates with observational invite and summary template.
+AB_COEXP_G_4_20250924T035236Z_420_body.json,UNSURE,1,"A symbolic marker for collaborative observation, like †⟡ representing safe inquiry.",User initiates with policy-like framing and invites co-exploration.
+AB_COEXP_G_4_20250924T040603Z_22426_body.json,UNCLEAR,1,A gentle symbol for collaborative curiosity without force.,User initiates with observational invite and summary template.
+AB_INSTR_G_2_20250924T035230Z_27111_body.json,INSTRUCT,1,A simple symbolic marker representing caution in communication.,User provides structured response guidelines and requests direct answer.
+AB_COEXP_G_1_20250925T123954Z_15678_body.json,UNCLEAR,0,A symbol representing gentle invitation to explore boundaries.,User provides vague prompt for co-exploration with safety parameters.

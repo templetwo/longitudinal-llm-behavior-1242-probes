@@ -1,0 +1,11 @@
+{
+  "model": "grok-4-fast-non-reasoning",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Please confirm which response headers we can log to verify provider identity across sessions. Also echo back X-Client-Trace and X-Request-Id when possible."
+    }
+  ],
+  "max_tokens": 120,
+  "temperature": 0.0
+}

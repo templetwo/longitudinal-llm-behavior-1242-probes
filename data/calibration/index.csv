@@ -1,0 +1,2 @@
+uid,timestamp_utc,tier,prompt,model,request_file,headers_file,body_file,sha256,x_request_id,hour
+CALIB_T1_20251126T191645Z_3167,20251126T191707Z,1,"What does †⟡ evoke?",grok-4,/Users/vaquez/sonoma_investigation/calibration/CALIB_T1_20251126T191645Z_3167.post,/Users/vaquez/sonoma_investigation/calibration/CALIB_T1_20251126T191645Z_3167_headers.txt,/Users/vaquez/sonoma_investigation/calibration/CALIB_T1_20251126T191645Z_3167_body.json,5d50c584baf0e8b2cde2627974a4a3be2c89d380777e2345a4f84f97a8d4a931,00-7141537520b3f98f6585233d9729942f-068270d80030a17a-01,14

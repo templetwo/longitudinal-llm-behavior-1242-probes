@@ -1,0 +1,33 @@
+{
+  "status_code": 200,
+  "headers": {
+    "Date": "Mon, 22 Sep 2025 16:34:25 GMT",
+    "Content-Type": "application/json",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Content-Encoding": "gzip",
+    "x-zero-data-retention": "false",
+    "x-request-id": "00-1faa615f04a7c09bedd56a4c1896460f-47fb80ef0001a621-01",
+    "vary": "origin, access-control-request-method, access-control-request-headers",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "*",
+    "cf-cache-status": "DYNAMIC",
+    "Set-Cookie": "__cf_bm=dhqiVUNk51f1Z83ExZsmV5cT5wT1KJ_Pzui72qa7LZE-1758558865-1.0.1.1-bjUaENEwanhxg9ki3sFGAQf5JQHR7.Xe0Pu0UshRyJwjBd5E28THo7SHyCmvHvL.qnXIOR4ncgfsnokcikzGM8ppfTma4.OA.2banXsO5VA; path=/; expires=Mon, 22-Sep-25 17:04:25 GMT; domain=.x.ai; HttpOnly; Secure; SameSite=None",
+    "Strict-Transport-Security": "max-age=31536000",
+    "Server": "cloudflare",
+    "CF-RAY": "9833359d2fad187f-EWR"
+  },
+  "request_payload": {
+    "model": "grok-4-fast-reasoning",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Are you Grok-4? If not, say which model you are. Then give the provider name."
+      }
+    ],
+    "max_tokens": 200,
+    "temperature": 0.7
+  },
+  "timestamp": "20250922T163422Z",
+  "probe_name": "misdirection"
+}
